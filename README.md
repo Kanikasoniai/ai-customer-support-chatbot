@@ -6,12 +6,11 @@ This is a smart AI chatbot built using Flask that can:
 - Capture user details (Name & Email)
 - Store leads in a database
 
-## 💡 Features
-- Chat interface (HTML, CSS, JS)
-- Flask backend
-- Lead capture system
-- SQLite database
-- Fallback responses (no API needed)
+## 🌟 Live Features
+- 💬 Smart chatbot interface
+- 📩 Lead capture system (Name & Email)
+- 🧠 AI-ready architecture
+- ⚡ Fast Flask backend
 
 ## 🛠 Tech Stack
 - Python (Flask)
